@@ -1,5 +1,5 @@
 // Simple C++ program to display "Hello World" 
-// Author: Sunayana Sharma gh9890
+// Author: Sunayana Sharma gh9890@wayne.edu
 // Header file for input output functions 
 #include<iostream>  
   
